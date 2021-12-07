@@ -25,6 +25,7 @@ body {
     color: #6893af;
     font-size: large;
     text-align: center;
+    transform: translate(4%)
 }
 
 html, body {
